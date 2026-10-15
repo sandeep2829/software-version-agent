@@ -1,0 +1,5 @@
+sno,name,current_version,latest_version,source_url,status
+1,Python,,Unknown,,Failed
+2,Node.js,,Unknown,,Failed
+3,Docker Desktop,,Unknown,,Failed
+4,Git,,Unknown,,Failed
